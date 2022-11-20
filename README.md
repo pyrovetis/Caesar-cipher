@@ -17,8 +17,8 @@ usage: app.py [-h] (-t  | -f ) [-k] [-e | -d]
 
 script for caesar cipher
 
-options:aa xszzxxxxxxxxxzzzxzzxzxzxzx
-  -h, --help     show this help message and exitaa xszzxxxxxxxxxzzzxzzxzxzxzx
+options:
+  -h, --help     show this help message and exit
   -t, --text     input text
   -f, --file     file name (e.g. file.txt)
   -k, --key      shift key
